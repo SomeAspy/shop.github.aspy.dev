@@ -7,9 +7,31 @@ permalinks: /:slug/
 
 params:
   homeInfoParams:
-    Title: Hi I'm Aspy and I refurbish laptops sometimes
-    Content: All listings are below
+    Title: Aspy's Shop
+    assets:
+      favicon: /favicon.svg
+    content: |
+      ## Contact me in the [Salem Techsperts Discord](https://discord.gg/salemtechsperts)
 
+      #### My Discord profile: [@someaspy](https://discord.com/users/516750892372852754)
+
+      #### My email: [amb@aspy.dev](mailto:amb@aspy.dev)
+      
+      <br>
+
+      Powered by [Hugo](https://gohugo.io/) + [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+
+      Hosted on GitHub Pages and open sourced: [someaspy/shop.github.aspy.dev](https://github.com/someaspy/shop.github.aspy.dev)
+
+      My main website: <https://aspy.dev>
+
+# Github Actions needs this
 caches:
   images:
     dir: :cacheDir/images
+
+# Allow HTML tags in Markdown
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

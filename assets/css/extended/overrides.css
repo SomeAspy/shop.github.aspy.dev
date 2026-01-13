@@ -1,0 +1,8 @@
+/* Listings */
+.post-content a,
+/* Home page */
+.first-entry .entry-content a {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+}
