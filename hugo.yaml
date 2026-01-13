@@ -1,0 +1,15 @@
+baseURL: shop.github.aspy.dev
+languageCode: en-us
+title: Aspy's shop
+theme: PaperMod
+permalinks: /:slug/
+
+
+params:
+  homeInfoParams:
+    Title: Hi I'm Aspy and I refurbish laptops sometimes
+    Content: All listings are below
+
+caches:
+  images:
+    dir: :cacheDir/images
