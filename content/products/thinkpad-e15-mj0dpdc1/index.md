@@ -11,7 +11,7 @@ params:
 
 ## Overview
 
-This is a laptop I've personally refurbished and tested. I've repasted the CPU with **PTM 7950** and confirmed the device works, and I've also installed all driver/OS/BIOS updates relevant to the device.
+This is a laptop has been refurbished, tested, and repasted with **PTM 7950**. All driver/OS/BIOS updates relevant to the device have been installed.
 
 ## Specs
 
