@@ -29,4 +29,4 @@ I was let go because we were not bringing in enough profit to sustain the laptop
 
 &nbsp;
 
-***Linux Installation is available for most devices for $15. Contact me after purchase.***
+***Linux Installation is available for most devices for $10. Contact me after purchase.***
