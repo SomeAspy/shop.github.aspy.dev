@@ -1,6 +1,6 @@
 ---
 draft: false
-title: $249.99 | Lenovo E15 Gen 1 (MJ-0DPDC1)
+title: $239.99 | Lenovo E15 Gen 1 (MJ-0DPCHF)
 cover:
     image: "running.jpg"
     alt: "Lenovo E15"
@@ -10,6 +10,9 @@ cover:
 ## Overview
 
 This is a laptop has been refurbished, tested, and repasted with **PTM 7950**. All driver/OS/BIOS updates relevant to the device have been installed.
+
+⚠️ Cosmetic Damage:
+This Device has a crack along the bottom casing and display bezel. See photos.
 
 ## Specs
 
@@ -26,7 +29,7 @@ This is a laptop has been refurbished, tested, and repasted with **PTM 7950**. A
 
 - Tested & Working
 - As pictured, see photos
-- 87.4% Battery health
+- 88.4% Battery health
 - New PTM 7950 applied
 - Used PM991 NVMe SSD
 - BIOS and OS updates/drivers pre-installed

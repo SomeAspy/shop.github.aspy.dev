@@ -2,49 +2,19 @@ baseURL: shop.github.aspy.dev
 languageCode: en-us
 title: Aspy's shop
 theme: PaperMod
-permalinks: /:slug/
+permalinks:
+  products: /:slug/
 
 
 params:
+  mainSections: 
+    - products
+  assets:
+    favicon: /favicon.svg
   homeInfoParams:
     Title: Aspy's Shop
-    assets:
-      favicon: /favicon.svg
-    content: |
-      ## Contact me in the [Salem Techsperts Discord](https://discord.gg/salemtechsperts)
-
-      #### My Discord profile: [@someaspy](https://discord.com/users/516750892372852754)
-
-      #### My email: [amb@aspy.dev](mailto:amb@aspy.dev)
-      
-      <br/>
-
-      Powered by [Hugo](https://gohugo.io/) + [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-
-      Hosted on GitHub Pages and open sourced: [someaspy/shop.github.aspy.dev](https://github.com/someaspy/shop.github.aspy.dev)
-
-      My main website: <https://aspy.dev>
-
-      <br/>
-
-      ## Why buy from me?
-
-      I was an employee of [Salem Techsperts](https://salemtechsperts.com?ref=aspy.dev).
-      I did most of the refurbishing, so you can expect the same level of quality!
-      
-      I was let go because we were not bringing in enough profit to sustain the laptop refurbishing business
-
-      <br/>
-
-      ***Linux Installation is available for most devices, for a small fee. Contact me after purchase.***
 
 # Github Actions needs this
 caches:
   images:
     dir: :cacheDir/images
-
-# Allow HTML tags in Markdown
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
